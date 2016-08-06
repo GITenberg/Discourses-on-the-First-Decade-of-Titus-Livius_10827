@@ -1,0 +1,35 @@
+_repo: Discourses-on-the-First-Decade-of-Titus-Livius_10827
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Thomson, Ninian Hill
+    birthdate: 1830
+    deathdate: 1921
+    gutenberg_agent_id: '5985'
+    url: http://www.gutenberg.org/2009/agents/5985
+creator:
+  author:
+    agent_name: Machiavelli, Niccolò
+    alias: Machiavelli, Niccolo
+    birthdate: 1469
+    deathdate: 1527
+    gutenberg_agent_id: '563'
+    url: http://www.gutenberg.org/2009/agents/563
+    wikipedia: http://en.wikipedia.org/wiki/Niccolò_Machiavelli
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10827'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JC'
+- !lcsh 'Livy. Ab urbe condita'
+- !lcsh 'Political science -- Early works to 1800'
+- !lcsh 'Rome -- Historiography'
+- GITenberg
+title: Discourses on the First Decade of Titus Livius
+url: http://www.gutenberg.org/ebooks/10827
