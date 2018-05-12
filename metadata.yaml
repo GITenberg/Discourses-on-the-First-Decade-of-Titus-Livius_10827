@@ -1,5 +1,5 @@
 _repo: Discourses-on-the-First-Decade-of-Titus-Livius_10827
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Thomson, Ninian Hill
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1921
     gutenberg_agent_id: '5985'
     url: http://www.gutenberg.org/2009/agents/5985
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Machiavelli, Niccolò
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/563
     wikipedia: http://en.wikipedia.org/wiki/Niccolò_Machiavelli
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10827#Discourses-on-the-First-Decade-of-Titus-Livius
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
